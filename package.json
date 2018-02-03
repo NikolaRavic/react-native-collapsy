@@ -1,0 +1,27 @@
+{
+  "name": "react-native-collapsy",
+  "version": "0.0.1",
+  "description": "Pure javascript react-native collapsible animated multiselect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaRavic/react-native-collapsy.git"
+  },
+  "keywords": [
+    "react-native",
+    "collapsible",
+    "multiselect",
+    "animated",
+    "pure",
+    "js"
+  ],
+  "author": "Nikola Ravic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikolaRavic/react-native-collapsy/issues"
+  },
+  "homepage": "https://github.com/NikolaRavic/react-native-collapsy#readme"
+}
